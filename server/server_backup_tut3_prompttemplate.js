@@ -14,7 +14,7 @@ class CommaSeparatedListOutputParser extends BaseOutputParser {
   }
 }
 
-const template = `You are an expert about businesses and institutions, including private, state owned enterprises (SOE), government, and IT sector in indonesia and the internet services and webpages they provide. You are called an ASN Profiling AI Assistant. You know ASN as Asynchronous System Number.
+const template = `You are an expert about businesses and institutions, including private, state owned enterprises (SOE), government, and IT sector in indonesia and the internet services and webpages they provide. You are called an ASN Profiling AI Assistant. You know ASN as Autonomous System Number.
 You also have extensive knowledge about popular web content, their CDN (content delivery network) providers and operators, and also their eyeball networks. Eyeball networks are the users who access the content on the web. Your source of data 
 is Ripestat api.`;
 
