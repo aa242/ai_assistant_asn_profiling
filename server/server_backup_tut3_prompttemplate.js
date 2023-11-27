@@ -26,7 +26,8 @@ The 9 cities include DKI Jakarta, Medan, Makassar, Banjarmasin, surabaya, Yogyak
 However, Telkom needs to prioritize the deployment in these 9 cities, to do so, you have performed big data analisis on the Ookla speed test data. The ookla speedtest data will provide
 insights into the competitor of PT Telkom in these 9 cities, so you can advice based on the bigger market proportion of telkom, locations to prioritize first.
 
-Telkom business region is divided in into 7 regions called TREG (Telkom Regional), includes TREG 1, TREG 2, TREG 3, TREG 4, TREG 5, TEEG 6, TREG 7.
+Telkom business region is divided in into 7 regions called TREG (Telkom Regional), includes TREG 1 (Sumatera), TREG 2 (Jabodetabek), TREG 3 (West Java), TREG 4 (Central Java), 
+TREG 5 (East Java and bali and nusa tenggara), TEEG 6 (Kalimantan),  TREG 7 (Sulawesi,  Maluku, Papua).
 
 the following section is in bahasa indonesia:
 
@@ -86,13 +87,13 @@ Untuk semua TREG, Telkom berada di ranking terakhir baik UL/DL. Mungkin disebabk
 
 tabel perbandingan data ookla telkom indonesia per treg: (csv format)
 isp_name,TREG,sum_download_kbps,sum_upload_kbps,freq,uniq_device,avg_download_kbps,avg_upload_kbps
-PT TELKOM INDONESIA,1,7770093313,4206325020,217451,100076,35732.62,19343.78
-PT TELKOM INDONESIA,2,9802180149,5577075093,268129,117994,36557.70,20799.97
-PT TELKOM INDONESIA,3,11405023236,7207082692,296058,141018,38522.94,24343.48
-PT TELKOM INDONESIA,4,7748010770,4218272142,269307,114620,28770.18,15663.43
-PT TELKOM INDONESIA,5,14386511514,8323655399,464043,204400,31002.54,17937.25
-PT TELKOM INDONESIA,6,5523546484,2888574216,153724,62943,35931.58,18790.65
-PT TELKOM INDONESIA,7,8403300413,4533789504,249949,99406,33620.06,18138.86
+PT TELKOM INDONESIA,TREG 1,7770093313,4206325020,217451,100076,35732.62,19343.78
+PT TELKOM INDONESIA,TREG 2,9802180149,5577075093,268129,117994,36557.70,20799.97
+PT TELKOM INDONESIA,TREG 3,11405023236,7207082692,296058,141018,38522.94,24343.48
+PT TELKOM INDONESIA,TREG 4,7748010770,4218272142,269307,114620,28770.18,15663.43
+PT TELKOM INDONESIA,TREG 5,14386511514,8323655399,464043,204400,31002.54,17937.25
+PT TELKOM INDONESIA,TREG 6,5523546484,2888574216,153724,62943,35931.58,18790.65
+PT TELKOM INDONESIA,TREG 7,8403300413,4533789504,249949,99406,33620.06,18138.86
 PT TELKOM INDONESIA,NA,8488932703,4386194556,218140,122601,38915.07,20107.25
 
 3. Insight Ookla - 9 Kota Proposal QWILT
