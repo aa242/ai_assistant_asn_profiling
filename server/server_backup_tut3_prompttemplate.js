@@ -84,158 +84,16 @@ Beberapa Kesimpulan - Speed UL/DL Telkom:
 Dari data perbandingan avg_upload_kbps dan avg_download_kbps, Telkom memiliki hubungan UL/DL yang asimetris, yakni UL/DL kurang lebih 1:2 untuk semua TREG.
 Untuk semua TREG, Telkom berada di ranking terakhir baik UL/DL. Mungkin disebabkan karena Telkom memang menjual paket internet yang memiliki speed terbatas (paket murah meriah), atau karena memang jaringan telkom paling padat pengguna.
 
-tabel perbandingan kecepatan download berbagai isp indonesia per treg: (csv format)
-MyRepublic ID,150781.85,1
-My Republic ID,100559.46,1
-Linknet,64729.02,1
-MyRepublic Indonesia,61367.36,1
-Biznet NAP - Internet Exchange Provider,60545.57,1
-FirstMedia,57664.33,1
-Biznet Networks,50729.09,1
-PT Linknet,48060.88,1
-Biznet ISP,47578.21,1
-PT. Cyberindo Aditama,42015.24,1
-PT TELKOM INDONESIA,35732.62,1
-PT Linknet,73646.54,2
-My Republic ID,64695.19,2
-MyRepublic ID,62730.45,2
-Biznet Networks,60180.46,2
-Linknet,59837.39,2
-MyRepublic Indonesia,59244.03,2
-Biznet NAP - Internet Exchange Provider,56163.18,2
-FirstMedia,53719.13,2
-Biznet ISP,48260.42,2
-PT. Cyberindo Aditama,39782.92,2
-PT TELKOM INDONESIA,36557.70,2
-My Republic ID,100166.39,3
-MyRepublic Indonesia,75266.16,3
-Linknet,75212.56,3
-MyRepublic ID,68264.77,3
-Biznet Networks,56245.31,3
-PT Linknet,52045.63,3
-FirstMedia,50007.28,3
-Biznet ISP,49373.11,3
-Biznet NAP - Internet Exchange Provider,48626.41,3
-PT. Cyberindo Aditama,47181.14,3
-PT TELKOM INDONESIA,38522.94,3
-MyRepublic ID,69556.78,4
-My Republic ID,65059.79,4
-Linknet,55653.10,4
-MyRepublic Indonesia,50086.62,4
-FirstMedia,49105.23,4
-PT. Cyberindo Aditama,46942.45,4
-Biznet Networks,45801.49,4
-PT Linknet,37019.78,4
-Biznet ISP,33652.21,4
-PT TELKOM INDONESIA,28770.18,4
-My Republic ID,78948.62,5
-Linknet,61886.70,5
-MyRepublic Indonesia,59607.72,5
-MyRepublic ID,52544.17,5
-Biznet Networks,51267.48,5
-Biznet ISP,49064.52,5
-FirstMedia,45748.27,5
-PT Linknet,40913.74,5
-PT. Cyberindo Aditama,39263.33,5
-PT TELKOM INDONESIA,31002.54,5
-My Republic ID,72640.90,6
-MyRepublic Indonesia,70177.65,6
-FirstMedia,63580.54,6
-Linknet,57654.92,6
-MyRepublic ID,56387.16,6
-Biznet ISP,49874.19,6
-PT Linknet,49799.87,6
-Biznet Networks,48971.12,6
-PT. Cyberindo Aditama,44147.22,6
-PT TELKOM INDONESIA,35931.58,6
-My Republic ID,113977.09,7
-Linknet,78107.35,7
-PT Linknet,66894.53,7
-Biznet NAP - Internet Exchange Provider,65752.40,7
-FirstMedia,61152.03,7
-MyRepublic Indonesia,56308.46,7
-Biznet Networks,52526.93,7
-MyRepublic ID,50855.45,7
-PT. Cyberindo Aditama,42946.26,7
-Biznet ISP,34732.07,7
-PT TELKOM INDONESIA,33620.06,7
-
-tabel perbandingan kecepatan upload berbagai isp indonesia per treg: (csv format)
-isp_name,avg_upload_kbps,TREG
-MyRepublic ID,114033.34615384616,1
-My Republic ID,82944.07364864864,1
-MyRepublic Indonesia,66709.40877446473,1
-Biznet NAP - Internet Exchange Provider,62452.088284820784,1
-Linknet,56669.333333333336,1
-PT Linknet,56353.340588988474,1
-Biznet ISP,55160.1310782241,1
-Biznet Networks,50489.03644363671,1
-FirstMedia,43463.429601618154,1
-PT. Cyberindo Aditama,43373.047342192694,1
-PT TELKOM INDONESIA,19343.78328910881,1
-PT Linknet,83498.89735099337,2
-Biznet Networks,64270.2698435362,2
-Biznet NAP - Internet Exchange Provider,60184.63164124145,2
-My Republic ID,57049.44640028164,2
-Linknet,56190.23249415326,2
-MyRepublic Indonesia,55726.82237038697,2
-MyRepublic ID,54211.51020217439,2
-Biznet ISP,50891.17674239507,2
-PT. Cyberindo Aditama,40731.94153700018,2
-FirstMedia,27706.117175579708,2
-PT TELKOM INDONESIA,20799.96976455363,2
-My Republic ID,84348.71688034188,3
-Linknet,74675.96557971014,3
-MyRepublic Indonesia,62170.12736332991,3
-Biznet Networks,58069.93998701419,3
-PT Linknet,57226.57047300525,3
-MyRepublic ID,56223.95396723712,3
-Biznet ISP,51126.060779816515,3
-Biznet NAP - Internet Exchange Provider,50890.625485122895,3
-PT. Cyberindo Aditama,48668.63384073222,3
-FirstMedia,26097.89527554502,3
-PT TELKOM INDONESIA,24343.48233116484,3
-MyRepublic ID,72288.56564438318,4
-My Republic ID,62045.622604422606,4
-MyRepublic Indonesia,58812.35730308274,4
-Linknet,57383.64236111111,4
-PT. Cyberindo Aditama,48251.35972754363,4
-Biznet Networks,47050.321069570586,4
-FirstMedia,46959.095533263935,4
-PT Linknet,46548.094804010936,4
-Biznet ISP,38919.46859903382,4
-PT TELKOM INDONESIA,15663.432966837105,4
-My Republic ID,69701.51310344828,5
-Linknet,64186.14876033058,5
-PT Linknet,57742.07921568627,5
-MyRepublic Indonesia,55865.50318984206,5
-Biznet Networks,53676.083202269416,5
-MyRepublic ID,53181.4648188647,5
-Biznet ISP,50709.24137931035,5
-PT. Cyberindo Aditama,39849.3830820601,5
-FirstMedia,24491.27071271711,5
-PT TELKOM INDONESIA,17937.250209571095,5
-MyRepublic Indonesia,75964.58261933904,6
-Biznet ISP,66215.2530120482,6
-PT Linknet,58837.0,6
-Biznet Networks,52177.80567622357,6
-FirstMedia,50282.146373056996,6
-My Republic ID,50268.025,6
-PT. Cyberindo Aditama,45978.93102522813,6
-MyRepublic ID,43437.79069767442,6
-Linknet,43229.403361344535,6
-PT TELKOM INDONESIA,18790.652181832374,6
-My Republic ID,107641.26843657818,7
-Linknet,77110.7089678511,7
-PT Linknet,71514.31549295774,7
-Biznet NAP - Internet Exchange Provider,65189.983050847455,7
-Biznet Networks,52816.43787706963,7
-MyRepublic ID,50943.25862068965,7
-MyRepublic Indonesia,50676.08605431797,7
-PT. Cyberindo Aditama,44817.99430469862,7
-Biznet ISP,42154.64734895191,7
-FirstMedia,41462.18470020675,7
-PT TELKOM INDONESIA,18138.858343101994,7
+tabel perbandingan data ookla telkom indonesia per treg: (csv format)
+isp_name,TREG,sum_download_kbps,sum_upload_kbps,freq,uniq_device,avg_download_kbps,avg_upload_kbps
+PT TELKOM INDONESIA,1,7770093313,4206325020,217451,100076,35732.62,19343.78
+PT TELKOM INDONESIA,2,9802180149,5577075093,268129,117994,36557.70,20799.97
+PT TELKOM INDONESIA,3,11405023236,7207082692,296058,141018,38522.94,24343.48
+PT TELKOM INDONESIA,4,7748010770,4218272142,269307,114620,28770.18,15663.43
+PT TELKOM INDONESIA,5,14386511514,8323655399,464043,204400,31002.54,17937.25
+PT TELKOM INDONESIA,6,5523546484,2888574216,153724,62943,35931.58,18790.65
+PT TELKOM INDONESIA,7,8403300413,4533789504,249949,99406,33620.06,18138.86
+PT TELKOM INDONESIA,NA,8488932703,4386194556,218140,122601,38915.07,20107.25
 
 3. Insight Ookla - 9 Kota Proposal QWILT
 
